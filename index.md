@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Muhammed Ismail P
 
-You can use the [portfolio](https://github.com/ismail1712/new/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[portfolio](https://github.com/ismail1712/new/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-        Muhammed Ismail P
+ Occupation: Student
 
 
 
